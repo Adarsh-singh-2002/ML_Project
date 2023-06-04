@@ -11,11 +11,13 @@ def get_requirements(file_path:str)->List[str]:
     requirements = []
     with open(file_path) as file_obj:
         requirements = file_obj.readlines()
+
         #upon executing the above line a \n would be added after each reading. so to remove that we would use.
 
         requirements = [req.replace('\n'," ") for req in requirements]
 
         #one issue with the requirements file is the presence of -e . this invokes the setup.py file so to remove this from the requirements.....
+        
         if HYPHEN_E_DOT in requirements:
             requirements.remove(HYPHEN_E_DOT)
     return requirements
