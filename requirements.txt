@@ -2,7 +2,6 @@ pandas
 numpy
 seaborn
 matplotlib
-warnings
 scikit-learn
 xgboost
 -e .
