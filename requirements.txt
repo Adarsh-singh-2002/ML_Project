@@ -1,3 +1,6 @@
+flask
+dataclasses
+catboost
 pandas 
 numpy
 seaborn
