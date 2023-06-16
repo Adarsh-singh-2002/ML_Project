@@ -1,10 +1,10 @@
 # <h1> Machine_Learning_Project
 
 >This is a generic machine learning project.
-
+  
 >>This project deals with the idea of analyzing student data and predicting the math_score of any student.
 
-![](https://github.com/ML_Project/image_2.gif)
+ ![image_2](https://github.com/Adarsh-singh-2002/ML_Project/assets/98600091/0f134f0b-6799-45ab-b972-189b3a4ce985)
 
 Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
 The data consists of 8 column and 1000 rows.
@@ -33,4 +33,4 @@ The data consists of 8 column and 1000 rows.
 
 Accuracy acheived was about : 87%
 
-![](https://github.com/ML_Project/image_1.gif)
+![image_1](https://github.com/Adarsh-singh-2002/ML_Project/assets/98600091/f082bd37-06e7-4c58-8277-5727d1ef4df6)
