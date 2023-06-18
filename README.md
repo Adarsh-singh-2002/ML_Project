@@ -1,4 +1,4 @@
-# <h1> Machine_Learning_Project
+# <h1> Machine_Learning_Project : Student math score
 
 >This is a generic machine learning project.
   
@@ -34,3 +34,5 @@ The data consists of 8 column and 1000 rows.
 Accuracy acheived was about : 87%
 
 ![image_1](https://github.com/Adarsh-singh-2002/ML_Project/assets/98600091/f082bd37-06e7-4c58-8277-5727d1ef4df6)
+
+
